@@ -1,0 +1,41 @@
+Q1) Introduce yourself and share with your peers your background and any experience you have with data science. (1 mark)
+ANS-
+    Hello my dear batch mates, I am Harshit Verma from India currently pursuing my B Tech degree. I have just began the journey to the field of data science with many of you guys. I previously had studied python language and also did few minor projects like Tic Tac Toe, made a GUI based Calculator and few more projects like these, I also have some soft skill qualities like Leadership, Communication, Interpersonal, Teamwork and Problem Solving. I am a member of a club in my college where these skill are often used.
+OR
+    A data scientist is one who analyses the data and forecasts the data using data visualization. data science is the art of analyzing the data and the process to visualize it.	
+OR
+      The student provided definitions close to the ones discussed in the course material but the definitions are still incomplete. For example, the student forgot to mention that in addition to using tools to find solutions to problems, a data scientist also communicates their findings through story-telling. Or, the student forgot to mention that a data scientist, in addition to communicating their findings to the relevant stakeholders, they use tools to find solutions to problems.            	
+-------------------------------------------------------------------------------------------------------------------------
+Q2) Based on the videos and the reading material, how would you define a data scientist and data science? (3 marks)
+Ans-
+The student provided definitions close to the ones discussed in the course material but the definitions are still incomplete. For example, the student forgot to mention that in addition to using tools to find solutions to problems, a data scientist also communicates their findings through story-telling. Or, the student forgot to mention that a data scientist, in addition to communicating their findings to the relevant stakeholders, they use tools to find solutions to problems.
+OR
+Data Scientist: Data Scientist is someone who finds solution to a problem through analyzing large or small data by appropriate tools and then tell stories to communicate their finding to the relevant stakeholders.
+Data Science:   Data Science is something that Data Scientists do.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Q3) As discussed in the videos and the reading material, data science can be applied to problems across different industries. What industry are you passionate about and would like to pursue a data science career in? (1 mark)
+ANS-
+As mentioned and previously discussed in the reading materials, there are many different domains in which you can pursue Data Science in. I personally find my interest towards finance, everything to do with numbers fascinates me very much. I also took a course in finance field which I loved. That is why I think Data Science in Finance domain is best for me.
+OR
+marketing industry and I would like pursue my data science career in forecasting the demand.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Q4) Based on the videos and the reading material, what are the eight main components of a report that would be delivered at the end of a data science project? (5 marks)
+Eight main components of a report that would be delivered at the end of a data science project are:
+ANS-
+According to the course material, a final deliverable in the form of a report, has the following 10 main components:
+1. Cover page
+2. Table of contents
+3. Introductory section
+4. Methodology section
+5. Results section
+6. Discussion section
+7. Conclusion section
+8. References
+9. Acknowledgment
+10. Appendix
+
