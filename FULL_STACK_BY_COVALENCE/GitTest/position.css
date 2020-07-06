@@ -1,0 +1,25 @@
+.box {
+    height: 10em;
+    width: 10em;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: royalblue;
+}
+
+.green {
+    background: seagreen;
+}
+
+.purple {
+    background: skyblue;
+}
+
+.border-yellow {
+    border: 5px solid greenyellow;
+    box-sizing: border-box;
+}

@@ -1,0 +1,21 @@
+.login_heading {
+    color: cornflowerblue;
+    text-align: center;
+}
+
+#SubmitButton {
+    color: rgb(162, 0, 255);
+    background-color: sandybrown;
+}
+
+[for="label_Attribute"] {
+    font-weight: bold;
+    font-style: italic;
+}
+
+input,
+label,
+button,
+.display-block {
+    display: block;
+}
