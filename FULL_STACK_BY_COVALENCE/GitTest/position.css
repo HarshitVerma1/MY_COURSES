@@ -1,17 +1,27 @@
 .box {
     height: 10em;
     width: 10em;
+    float: left;
 }
 
 .red {
+    /* Default position: static*/
+    /* position: relative; */
+    /* position: absolute; */
     background: red;
+    /* height: 5em;
+    width: 5em;
+    top: 0em; */
+    /* right: 0em; */
 }
 
 .blue {
+    /* position: relative; */
     background: royalblue;
 }
 
 .green {
+    /* position: fixed; */
     background: seagreen;
 }
 
@@ -22,4 +32,5 @@
 .border-yellow {
     border: 5px solid greenyellow;
     box-sizing: border-box;
+    /* right: 0em; */
 }
