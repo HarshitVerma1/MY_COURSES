@@ -1,7 +1,7 @@
 .box {
     height: 10em;
     width: 10em;
-    float: left;
+    /* float: left; */
 }
 
 .red {
@@ -23,6 +23,7 @@
 .green {
     /* position: fixed; */
     background: seagreen;
+    /* float: left; */
 }
 
 .purple {
