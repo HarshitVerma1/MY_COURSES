@@ -40,3 +40,15 @@
 -Source Order
 <br><br>
 
+># CSS Spacing
+- Margin
+- Padding
+<br><br>
+
+># CSS Typography
+- font-family
+- font-size
+- font-weight
+- color
+- text-decoration
+- text-align
