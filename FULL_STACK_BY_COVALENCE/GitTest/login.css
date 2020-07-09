@@ -1,6 +1,24 @@
 .login_heading {
     color: cornflowerblue;
     text-align: center;
+    font-family: 'Modak', cursive;
+    font-weight: lighter;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+hr {
+    width: 50%;
+}
+
+form {
+    padding: 5em;
+    margin: 0 auto;
+    margin-top: auto;
+    width: 170px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px black;
 }
 
 #SubmitButton {
@@ -10,7 +28,11 @@
 
 [for="label_Attribute"] {
     font-weight: bold;
-    font-style: italic;
+    /* font-style: italic; */
+}
+
+main {
+    line-height: 30px;
 }
 
 input,
@@ -31,4 +53,11 @@ button {
     margin-left: 0em; */
     margin: 1em 0 1em 0;
     padding: 0 1em 0 1em;
+}
+
+body {
+    background-image: url(background.jpg);
+    color: blanchedalmond;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
 }

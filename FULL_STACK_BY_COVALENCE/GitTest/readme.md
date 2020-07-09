@@ -7,18 +7,21 @@
     * Attributes([])
 - Rulesets
 * Rules
-<br><br>
+<br><br><hr>
+
 ># CSS Positioning
 * position :static;
 * position : relative;
 * position : absolute;
 * position : fixed; 
 * float : left/right;clear;
-<br><br>
+<br><br><hr>
+
 ># CSS Sizing
 - Pixels,Ems,Rems,percentages
 - ViewPort Units(vh,vw)
-<br><br>
+<br><br><hr>
+
 >### How to select any element by Selectors?
 - element
 - element,element (All properties apply on both.)
@@ -29,7 +32,7 @@
 - :last-child
 - :first-child
 - !important (not recommended)
-<br><br><br>
+<br><br><br><hr>
 
 >What Selectors win out in the cascade depends on:
 
@@ -38,12 +41,12 @@
 -Importance
 
 -Source Order
-<br><br>
+<br><br><hr>
 
 ># CSS Spacing
 - Margin
 - Padding
-<br><br>
+<br><br><hr>
 
 ># CSS Typography
 - font-family
@@ -52,3 +55,16 @@
 - color
 - text-decoration
 - text-align
+<br><br><hr>
+
+># CSS Borders
+- borders
+- box-sahdow
+- hr
+<br><br><hr>
+
+># CSS Backgrounds
+- backgrounds
+- background-size
+- background-position
+- background-repeat
