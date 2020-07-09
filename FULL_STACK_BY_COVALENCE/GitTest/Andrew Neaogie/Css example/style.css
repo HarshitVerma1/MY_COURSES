@@ -1,0 +1,43 @@
+* {
+	text-align: right;
+}
+
+
+
+/*This selector is applied in "which paragraph(<p>) elements are inside in Heading(<h1>) element". -------->  ( <h2><p>  Anything </p></h2> )  */
+/*h2 p{    
+	color: red;
+	text-align: center;
+	border: 5px solid grey;
+	cursor: pointer;
+}*/
+
+
+/* this code is apply in all 2_level_headings. */
+h2 {               
+	color: red;
+	text-align: center;
+	border: 5px solid grey;
+	cursor: pointer;
+}
+
+
+p {
+	color:#FF00AC;
+	text-align: justify;
+	border: 1px solid grey;
+}
+
+#div1{
+	background-color: #E5B088;
+}
+
+body{
+	background-color: #D0CCCF;
+	background-size: cover;
+
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
