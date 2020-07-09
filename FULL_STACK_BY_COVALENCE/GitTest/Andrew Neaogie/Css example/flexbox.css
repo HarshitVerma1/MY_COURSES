@@ -12,6 +12,11 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
+    box-shadow: 4px 20px 20px #888888;
+    -moz-box-shadow: 4px 20px 20px #888888;
+    -ms-box-shadow: 4px 20px 20px #888888;
+    -webkit-box-shadow: 4px 20px 20px #888888;
+    -o-box-shadow: 4px 20px 20px #888888;
 }
 
 div {
@@ -35,8 +40,9 @@ img {
 }
 
 img:hover {
-    transform: matrix3d(50);
+    transform: matrix3d(50s);
     transform: scale(1.1);
     border-color: blue;
-    border-width: 30px;
+    border-width: 10px;
+    box-shadow: 4px 20px 20px #888888;
 }
