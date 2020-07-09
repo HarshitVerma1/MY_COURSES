@@ -1,14 +1,14 @@
 h1 {
     font-family: 'Kaushan Script', cursive;
-    margin: 50px;
+    margin: 30px;
     /* padding-top: 30px; */
-    font-size: 50px;
+    font-size: 40px;
     border-bottom: 5px solid pink;
     border-right: 5px solid pink;
     border-left: 5px solid pink;
     border-top: 5px solid pink;
     border-radius: 15px;
-    width: 400px;
+    width: 300px;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
@@ -27,8 +27,8 @@ div {
 }
 
 img {
-    width: 450px;
-    height: 300px;
+    width: 300px;
+    height: 200px;
     border-bottom: 5px solid red;
     border-right: 5px solid red;
     border-left: 5px solid red;
